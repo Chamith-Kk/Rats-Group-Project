@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane fx:id="rootPane" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.NewPlayerController">
+   <right>
+      <Button fx:id="submit" prefHeight="33.0" prefWidth="56.0" text="Submit" BorderPane.alignment="CENTER" />
+   </right>
+   <center>
+      <TextField fx:id="textField" prefHeight="25.0" prefWidth="444.0" BorderPane.alignment="CENTER" />
+   </center>
+   <left>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Name: " BorderPane.alignment="CENTER" />
+   </left>
+
+</BorderPane>

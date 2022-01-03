@@ -1,0 +1,22 @@
+Player name
+Level file path
+Level file name
+par time
+score
+Items and location e.g. bomb,8,5,;bomb,5,3,;
+Item spawn queue e.g. item name, wait time;item name wait time
+Iventory conntents. Seperated by ","
+!!!Below all on one line seperated by ";". Each rat
+begi
+ns on new line.!!!
+1) x,y coordinates e.g. (15,4)
+2) is baby? e.g. (true,false)
+3) age of baby rat
+4) sex e.g. (male/female/death)
+5) health e.g. (88)
+6) wait time e.g. (4)
+7) is sterile? e.g. (true)
+8) head direction e.g.(LEFT)
+9) is pregnant? (false)
+10) num of babies (3)
+11) kills remaining

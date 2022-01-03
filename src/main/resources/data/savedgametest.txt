@@ -1,0 +1,12 @@
+Anthony
+C:\Users\aosta\OneDrive\Documents\Uni\CS230\A2\FileHandlingTesting
+Level1.txt
+50
+0
+Bomb,4,5;Poison,7,7
+FemaleSexChane,4;MaleSexChange,8;FemaleSexChnage,16;MaleSexChange,32;
+MaleSexChange,Bomb,Sterilisation,Poison
+2,2;true;0;M;1;2;false;WEST;false;0;0
+4,4;true;0;F;1;2;false;WEST;false;0;0
+6,6;true;0;M;1;2;false;WEST;false;0;0
+8,8;true;0;M;1;2;false;WEST;false;0;0

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0"
+            prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+            >
+   <Button fx:id="mainMenu" layoutX="224.0" layoutY="305.0" mnemonicParsing="false" onAction="#handle_main_btn"
+           prefHeight="48.0" prefWidth="151.0" text="Main Menu"/>
+   <Label fx:id="scores_label" layoutX="218.0" layoutY="47.0" text="High Scores" textAlignment="CENTER">
+      <font>
+         <Font size="28.0"/>
+      </font>
+   </Label>
+   <ListView fx:id="high_scores" layoutX="200.0" layoutY="87.0" prefHeight="200.0" prefWidth="200.0"/>
+
+</AnchorPane>
